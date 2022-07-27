@@ -4,12 +4,28 @@
 //
 
 // Do not edit directly
-// Generated on Fri, 15 Jul 2022 19:49:49 GMT
+// Generated on Wed, 27 Jul 2022 19:18:12 GMT
 
 
 #import <UIKit/UIKit.h>
 
 typedef NS_ENUM(NSInteger, StyleDictionaryColorName) {
+ColorPrimRia,
+ColorPrimaryBackground,
+ColorAccentBackground,
+ColorSurface,
+ColorBackground,
+ColorTextNormal,
+ColorTextSubtle,
+ColorBorderNormal,
+ColorBorderSubtle,
+ColorEscalaDeCinza0,
+ColorEscalaDeCinza5,
+ColorEscalaDeCinza10,
+ColorEscalaDeCinza40,
+ColorEscalaDeCinza60,
+ColorEscalaDeCinza90,
+ColorEscalaDeCinza100,
 ColorColorsSemiRed,
 ColorColorsMultipleFills0,
 ColorColorsMultipleFills1,
